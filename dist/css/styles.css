@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*!
 * Start Bootstrap - Stylish Portfolio v6.0.4 (https://startbootstrap.com/theme/stylish-portfolio)
-* Copyright 2013-2022 Start Bootstrap
+* Copyright 2013-2021 Start Bootstrap
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/blob/master/LICENSE)
 */
 /*!
@@ -60,7 +60,7 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
-  --bs-body-color: #f5f8fa;
+  --bs-body-color: #212529;
   --bs-body-bg: #fff;
 }
 
@@ -595,7 +595,7 @@ progress {
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "— ";
 }
 
 .img-fluid {
@@ -3030,13 +3030,13 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #0462ee;
-  border-color: #8f9294;
+  background-color: #1D809F;
+  border-color: #1D809F;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #0c56c5;
-  border-color: #cdd0d3;
+  background-color: #196d87;
+  border-color: #17667f;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
