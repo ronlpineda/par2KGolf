@@ -640,6 +640,14 @@ progress {
   margin-left: auto;
 }
 
+.form {
+  padding: 2rem 20rem;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
 @media (min-width: 576px) {
   .container-sm, .container {
     max-width: 540px;
